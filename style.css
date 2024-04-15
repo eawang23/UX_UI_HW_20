@@ -1,0 +1,60 @@
+.navbar{
+    padding-left: 50;
+}
+.navbar-nav{
+    padding-left: 10;
+    padding-right: 10;
+}
+.jumbotron{
+    background-image: url(../images/plan.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px !important;
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.planInt{
+    margin-left: 50;
+    margin-right: 800;
+}
+.content{
+    padding: 50px;
+}
+.research{
+    padding: 0px 30px 30px 30px;
+}
+.cardContainer{
+    text-align: center;
+}
+.card-body{
+    background-color: #0072CC;
+    color: white;
+}
+.img.card{
+    width: 50;
+    height: 200;
+}
+.jumbotronSecond{
+    background-image: url(../images/prob.png) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px !important;
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.probStat{
+    margin-right: 50;
+    margin-left: 800;
+}
+.finalImg{
+    width: 40% !important;
+    margin-left: auto;
+}
+.biocontent{
+    margin-right: auto;
+}
+.prototypeSec{
+    padding: 50;
+}
